@@ -1,1 +1,20 @@
 /* Your CSS here. */
+.card {
+  background-color: #107ee6;
+  color: white;
+  width: 600px;
+  padding: 30px;
+  margin: 50px auto;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.card img {
+  height: 150px;
+  width: 150px;
+  border-radius: 4px;
+}
+
+.card p {
+  text-align: center;
+}
